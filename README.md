@@ -227,4 +227,4 @@ AmineAIT-ALI — [github.com/AmineAIT-ALI](https://github.com/AmineAIT-ALI)
 
 Projet portfolio démontrant des compétences en Data Engineering et Analytics Engineering.
 
-Stack : Python · SQL · SQLite · pandas · numpy · openpyxl
+Stack : Python · SQL · SQLite · pandas · numpy
